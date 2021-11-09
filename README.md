@@ -7,6 +7,7 @@
 
 Aplicativo mobile específico para comidas vegs com intuito de unificar os restaurantes e pequenos vendedores, onde seriam vendidos por um preço acessível, sem altas taxas e disponíveis em regiões mais restritas.
 
+App foi desenvolvido com Bootstrap 4 e JS em uma metodologia PWA Builder.
 
 <h4>🚀 Tecnologias utilizadas: </h4>
  <div style="display: inline_block"><br>
